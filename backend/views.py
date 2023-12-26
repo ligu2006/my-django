@@ -10,6 +10,7 @@ def index(request):
         <body>
             <h1>Hello from Vercel backend after removing example directory!</h1>
             <p>The current time is { now }.</p>
+            <h1> Big test </h1>
         </body>
     </html>
     '''
